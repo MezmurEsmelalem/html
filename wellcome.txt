@@ -1,0 +1,18 @@
+</head> 
+   <body>
+      <ol>
+    <li><a href="../Pictures/1.png"><h1>Welcome to mezmur.com</h1></a></li>
+    <li><a href="../Desktop/ለይኩን ብርሀኑ (የግዕዝ መማሪያ).pdf"><h2>Welcome to mezmur.com</h2></a></li>
+    <li><a href="caseSesitive.htm"><h3>Welcome to mezmur.com</h3></a></li>
+      </ol>
+                              <br>
+    <button>Next Page</button>
+      <ul>
+    <li><a href="../Desktop/www.w3schools.com - Shortcut.lnk"><h4>w3schools.jpg</h4></a></li>
+    <li><h5>Welcome to mezmur.com</h5></li>
+    <li><h6>Welcome to mezmur.com</h6></li></ul>
+    <p>Mezmur is technology providing platform that contains multi-sector tecnologies and solutions.</p>
+    <a href="../Desktop/www.w3schools.com - Shortcut.lnk"><img src="c:\My Dream\My Website\www.w3schools.com\whatis\img_w3schools.jpg" alt="image" width="104" height="142">
+    
+   </body>
+</html>
